@@ -1,5 +1,5 @@
 # Sales-Dashboard
-# 📊 Sales Dashboard (Night Theme)
+
 ![Night Theme](https://github.com/user-attachments/assets/cbcba13c-88df-466b-9675-ec9f324c07f4)
 
 
